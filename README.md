@@ -6,7 +6,7 @@
 
 TF2Keys.trade is a specialized cryptocurrency exchange platform that enables Team Fortress 2 players to instantly trade their Mann Co. Supply Crate Keys for various cryptocurrencies and vice versa. The platform offers fast, secure transactions with support for 350+ coins and networks.
 
-![App Screenshot Placeholder](https://img.shields.io/badge/Screenshot-Coming%20Soon-lightgrey)
+
 
 **Live Site:** [TF2Keys.trade](https://tf2keys.trade)
 
